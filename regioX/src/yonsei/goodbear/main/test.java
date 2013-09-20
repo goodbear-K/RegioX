@@ -7,6 +7,8 @@ public class test {
 		System.out.println("AAA");
 		System.out.println("BBB");
 
+		System.out.println("BBB");
+
 	}
 
 }
